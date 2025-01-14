@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/58a1fcabfda04feb90ac4b00a7494355/artifacts
+end_time: 1736835257669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58a1fcabfda04feb90ac4b00a7494355
+run_name: glamorous-fly-175
+run_uuid: 58a1fcabfda04feb90ac4b00a7494355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835098989
+status: 3
+tags: []
+user_id: ASUS

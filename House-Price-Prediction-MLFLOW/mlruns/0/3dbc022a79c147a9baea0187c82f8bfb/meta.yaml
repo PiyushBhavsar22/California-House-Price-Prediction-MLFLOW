@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3dbc022a79c147a9baea0187c82f8bfb/artifacts
+end_time: 1736853758031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dbc022a79c147a9baea0187c82f8bfb
+run_name: capable-wasp-418
+run_uuid: 3dbc022a79c147a9baea0187c82f8bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736853617490
+status: 3
+tags: []
+user_id: ASUS

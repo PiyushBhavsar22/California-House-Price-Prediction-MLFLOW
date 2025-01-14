@@ -1,0 +1,4 @@
+mlflow
+sckit-learn
+numpy
+panadaspip 
